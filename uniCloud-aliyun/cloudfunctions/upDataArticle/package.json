@@ -1,0 +1,7 @@
+{
+  "name": "upDataArticle",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
